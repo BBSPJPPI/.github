@@ -1,2 +1,2 @@
 # .github
-BBSPJPPI Internal Organization Repositories
+BBSPJPPI Repositories

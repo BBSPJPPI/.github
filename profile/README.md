@@ -1,4 +1,5 @@
 # Selamat Datang di Github BBSPJPPI!
+<img src="../assets/8.png" alt="greeni" width="200">
 
 Tempat ini digunakan sebagai wadah untuk meletakkan kode proyek internal BBSPJPPI (non-SPBE).
 
