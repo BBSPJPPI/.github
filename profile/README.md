@@ -1,12 +1,24 @@
-## Hi there 👋
+# Selamat Datang di Github BBSPJPPI!
 
-<!--
+Tempat ini digunakan sebagai wadah untuk meletakkan proyek internal BBSPJPPI (non-SPBE).
 
-**Here are some ideas to get you started:**
+## Repository Rules
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+Setiap repository minimal **WAJIB** mengikuti aturan berikut:
+
+### 1. Feature Branching
+- Gunakan branch utama: `main`
+- Setiap pengembangan fitur/modul baru dilakukan di branch terpisah  
+  Contoh: `fitur/login`, `fitur/etl`
+- Merge ke `main` hanya melalui Pull Request yang akan di review ke @givxl33t
+
+### 2. Automated Deployment Pipeline
+- Setiap repository harus memiliki pipeline CI/CD
+- Pipeline minimal mencakup:
+  - Build
+  - Test
+  - Deploy otomatis
+- Pipeline berjalan otomatis saat ada perubahan ke branch `main`
+
+## Goal
+Menjaga kualitas kode, konsistensi workflow, dan proses deployment yang cepat serta andal.
