@@ -1,6 +1,6 @@
 # Selamat Datang di Github BBSPJPPI!
 
-Tempat ini digunakan sebagai wadah untuk meletakkan proyek internal BBSPJPPI (non-SPBE).
+Tempat ini digunakan sebagai wadah untuk meletakkan kode proyek internal BBSPJPPI (non-SPBE).
 
 ## Repository Rules
 
